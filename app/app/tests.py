@@ -11,4 +11,4 @@ class CalcTests(TestCase):
 
     def test_subtract_numbers(self):
         """Test that values are subtracted and returned"""
-        self.assertEqual(subract(5, 11), 6)
+        self.assertEqual(subract(5, 11), 7)
